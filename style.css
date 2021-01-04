@@ -30,6 +30,7 @@ body{
 section{
     height: 500px;
     padding-bottom: 100px;
+    padding-top: 50px;
 }
 .link-button{
     text-decoration: none;
@@ -46,7 +47,7 @@ section{
 }
 .single-experience{
     box-shadow: 10px 10px 40px grey;
-    border-radius: 5px;
+    border-radius: 10px;
     height: 60%;
     background-color: white;
 }
@@ -68,4 +69,7 @@ section{
 footer{
     text-align: center;
     font-size: 12px;
+}
+.experience-margin-left{
+    margin-left: 10px;
 }
